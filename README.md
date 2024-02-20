@@ -1,1 +1,1 @@
-# News-api
+# NewsApp
